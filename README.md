@@ -1,5 +1,3 @@
-# roll-angle-estimation - Project Description
-
 An algorithm has been developed to estimate the roll angle of a spacecraft using nadir-pointing images of the Earth. The method involves:
 
 1. Threshold-based binarization of the image.
