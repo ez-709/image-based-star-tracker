@@ -1,4 +1,4 @@
-An algorithm has been developed to estimate the roll angle of a spacecraft using nadir-pointing images of the Earth. The method involves:
+# Project description 
 
 1. Threshold-based binarization of the image.
 2. Detection of the Earth's limb as the sequence of highest white pixels in each column.
@@ -26,7 +26,7 @@ All input images used by the algorithm are stored in the `data` folder.
 
 ---
 
-# roll-angle-estimation - Описание проекта
+# Описание проекта
 
 Разработан алгоритм оценки угла крена космического аппарата по надирным изображениям Земли. Метод включает следующие этапы:
 
